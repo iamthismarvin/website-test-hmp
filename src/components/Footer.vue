@@ -9,7 +9,7 @@
       <section class="section-right">
         
         <form>
-          <label for=email>Newsletter</label>
+          <label for=email><h5>Newsletter</h5></label>
         <p>Stay updated with our latest trends</p>
           <input type="email" id="email" name="email" value="Enter Email Address">
           <input type="submit" value="➤" id="submit">
