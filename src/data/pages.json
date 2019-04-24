@@ -1,0 +1,38 @@
+{
+    "pages": [{
+            "id": 0,
+            "name": "Home",
+            "path": "/"
+        },
+        {
+            "id": 1,
+            "name": "About",
+            "path": "/"
+        },
+        {
+            "id": 2,
+            "name": "Services",
+            "path": "/"
+        },
+        {
+            "id": 3,
+            "name": "Portfolio",
+            "path": "/"
+        },
+        {
+            "id": 4,
+            "name": "Pricing",
+            "path": "/"
+        },
+        {
+            "id": 5,
+            "name": "Blog",
+            "path": "/"
+        },
+        {
+            "id": 6,
+            "name": "Contact",
+            "path": "/"
+        }
+    ]
+}
