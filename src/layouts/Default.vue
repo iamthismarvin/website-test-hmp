@@ -34,7 +34,7 @@ body {
 }
 
 p {
-  color: #777;
+  color: #555;
 }
 
 .layout {

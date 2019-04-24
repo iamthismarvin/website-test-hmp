@@ -7,9 +7,10 @@
         <p>Copyright ©2019 All rights reserved</p>
       </section>
       <section class="section-right">
-        <h5>Newsletter</h5>
-        <p>Stay updated with our latest trends</p>
+        
         <form>
+          <label for=email>Newsletter</label>
+        <p>Stay updated with our latest trends</p>
           <input type="email" id="email" name="email" value="Enter Email Address">
           <input type="submit" value="➤" id="submit">
         </form>
@@ -23,6 +24,10 @@ export default { name: "Footer" };
 </script>
 
 <style scoped>
+p {
+  color: #bbb;
+}
+
 .footer {
   background-color: #04091e;
   color: #fff;
@@ -43,7 +48,7 @@ section {
 
 #email {
   font-family: "Segoe UI", sans-serif;
-  color: #777;
+  color: #555;
   min-width: 190px;
   height: 35px;
   box-sizing: border-box;
@@ -51,7 +56,7 @@ section {
 
 #submit {
   font-family: "Segoe UI", sans-serif;
-  color: #fff;
+  color: #080808;
   background-color: #8490ff;
   border: none;
   height: 35px;

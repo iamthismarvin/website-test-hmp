@@ -103,7 +103,7 @@ export default {
 }
 
 .filters li > a {
-  color: #777;
+  color: #555;
   text-decoration: none;
   text-transform: uppercase;
   padding: 0 10px;
