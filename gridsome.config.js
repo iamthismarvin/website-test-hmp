@@ -6,7 +6,8 @@
 
 module.exports = {
   siteName: 'Pepe Garcia',
-  siteUrl: "https://iamthismarvin.github.io/website-test-hmp",
+  siteUrl: "https://iamthismarvin.github.io",
+  pathPrefix: "/website-test-hmp",
   siteDescription: "Pepe Garcia's Portfolio Web App", 
   plugins: [],
 }
